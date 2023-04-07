@@ -2,7 +2,7 @@
 title: "The formation of wide exoKuiper belts from migrating dust traps"
 collection: publications
 permalink: /publication/2021-10-08-the-formation-of-wide-exokuiper-belts
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
+excerpt: 'This paper proposes a new theory in debris disc formation, and was the result of a 1.5 year research project supervised by [Dr. Sebastian Marino](https://sebamarino.github.io).'
 date: 2021-10-08
 venue: 'Monthly Notices of the Royal Astronomical Society 1'
 paperurl: 'https://arxiv.org/pdf/2110.04007.pdf'

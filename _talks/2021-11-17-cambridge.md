@@ -8,4 +8,4 @@ date: 2021-11-17
 location: "Cambridge, UK"
 ---
 
-I gave a talk about my planetesimal belt research with Dr. Sebastian Marino at the University of Cambridge's Debris Discs group's weekly meeting.
+I gave a talk about my planetesimal belt research with [Dr. Sebastian Marino](https://sebamarino.github.io) at the University of Cambridge's Debris Discs group's weekly meeting.
