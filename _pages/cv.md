@@ -16,20 +16,20 @@ Education
 
 Work experience
 ======
-* Robotics Research Engineer (March 2023 - )
-  * DLR (German Aerospace Center)
+* _Robotics Research Engineer_ :calendar: March 2023 - present
+  * **DLR (German Aerospace Center)**
   * Project: Perception and grasping for the assistive EDAN robot
   * Supervisor: Jörn Vogel, [Dr. Freek Stulp](http://www.freekstulp.net/)
 
-* Visiting Student Researcher (July - December 2022)
-  * NASA Jet Propulsion Laboratory
+* _Visiting Student Researcher_ :calendar: July - December 2022
+  * **NASA Jet Propulsion Laboratory**
   * Project: Semantic perception for RACER Challenge
   * Supervisor: (Deegan Atha)[https://www-robotics.jpl.nasa.gov/who-we-are/people/deegan_atha/]
 
-* Robotics Intern (February - June 2022)
+* Robotics Intern :calendar: February - June 2022
   * University of Edinburgh, Statistical Machine Learning and Motor Control Group
-  * Project: Integration of a mobile humanoid robot called [EVA](https://youtu.be/nMkcBbofDY0)
-  * Supervisor: [Dr. Vladimir Ivan](https://vladimirivan.wordpress.com/), [Prof. Sethu Vijayajumar](https://homepages.inf.ed.ac.uk/svijayak/)
+  * _Project_: Integration of a mobile humanoid robot called [EVA](https://youtu.be/nMkcBbofDY0)
+  * _Supervisor_: [Dr. Vladimir Ivan](https://vladimirivan.wordpress.com/), [Prof. Sethu Vijayajumar](https://homepages.inf.ed.ac.uk/svijayak/)
 
 * Astrophysics Summer Intern (extended) (June 2020 - October 2021)
   * 3 month internship awarded by Max Planck Institute for Astronomy, then continued project with supervisor as he took up a position at the University of Cambridge
@@ -38,7 +38,7 @@ Work experience
 
 * Firmware Engineering Summer Intern (December 2020 - February 2021)
   * Cochlear
-  
+
 * Summer Research Scholar (December 2019 - February 2020)
   * Australian National University
   * Project: Multi-band Type Ia supernova light curve fitting
