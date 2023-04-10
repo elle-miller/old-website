@@ -9,10 +9,14 @@ redirect_from:
 
 {% include base_path %}
 
+&nbsp;
+
 Education 🎓
 ======
 * BEng Honours (Mechatronic (Space)) (First Class), University of Sydney, 2023
 * BSc (Advanced Physics), University of Sydney, 2023
+
+&nbsp;
 
 Work experience 🏛️
 ======
@@ -20,42 +24,42 @@ Work experience 🏛️
   * _Project_: Perception and grasping for the assistive EDAN robot
   * _Supervisor_: Jörn Vogel, [Dr. Freek Stulp](http://www.freekstulp.net/)
 
-&nbsp;
+     
 
 * Visiting Student Researcher 🗓️ July - December 2022 📍 **NASA Jet Propulsion Laboratory**
   * _Project_: Semantic perception for RACER Challenge
   * _Supervisor_: [Deegan Atha](https://www-robotics.jpl.nasa.gov/who-we-are/people/deegan_atha/)
 
-&nbsp;
+     
 
 * Robotics Intern 🗓️ February - June 2022 📍**University of Edinburgh, [SLMC Group](https://web.inf.ed.ac.uk/slmc)**
   * _Project_: Integration of a mobile humanoid robot called EVA ([video](https://youtu.be/nMkcBbofDY0))
   * _Supervisor_: [Dr. Vladimir Ivan](https://vladimirivan.wordpress.com/), [Prof. Sethu Vijayajumar](https://homepages.inf.ed.ac.uk/svijayak/)
 
-&nbsp;
+     
 
 * Astrophysics Summer Intern 🗓️ June 2020 - October 2021 📍**Max Planck Institute for Astronomy***
   * *Internship awarded by MPIA, and continued as supervisor moved to **University of Cambridge** 
   * Project: The formation of wide exoKuiper belts from migrating dust traps ([paper](https://arxiv.org/pdf/2110.04007.pdf))
   * Supervisor: [Dr. Sebastian Marino](https://sebamarino.github.io/)
 
-&nbsp;
+     
 
 * Firmware Engineering Summer Intern 🗓️ December 2020 - February 2021 📍 **Cochlear**
 
-&nbsp;
+     
 
 * Summer Research Scholar 🗓️ December 2019 - February 2020 📍 **Australian National University**
   * Project: Multi-band Type Ia supernova light curve fitting
   * Supervisor: [Dr. Brad Tucker](https://www.mso.anu.edu.au/~brad/)
 
-&nbsp;
+     
 
 * Space Engineering Intern 🗓️ August - November 2019 📍 **Saber Astronautics**
   * Project: Satellite orbit determination
   * Supervisor: Andreas Antoniades
 
-&nbsp;
+     
 
 * Student Researcher 🗓️ August 2017 - November 2018 📍 **University of Sydney**
   * As part of Talented Students Program, I undertook 3 semester-long research projects

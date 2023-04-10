@@ -187,9 +187,6 @@ collections:
   talks:
     output: true
     permalink: /:collection/:path/
-  media:
-    output: true
-    permalink: /:collection/:path/
 
 
 # Defaults
@@ -245,14 +242,6 @@ defaults:
       type: talks
     values:
       layout: talk
-      author_profile: false
-      share: false
-  # _media
-  - scope:
-      path: ""
-      type: media
-    values:
-      layout: single
       author_profile: false
       share: false
 
