@@ -19,35 +19,51 @@ Work experience 🏛️
 * Robotics Research Engineer 🗓️ March 2023 - present 📍 **DLR (German Aerospace Center)**
   * _Project_: Perception and grasping for the assistive EDAN robot
   * _Supervisor_: Jörn Vogel, [Dr. Freek Stulp](http://www.freekstulp.net/)
+</br>
+</br>
 
 * Visiting Student Researcher 🗓️ July - December 2022 📍 **NASA Jet Propulsion Laboratory**
   * _Project_: Semantic perception for RACER Challenge
-  * _Supervisor_: (Deegan Atha)[https://www-robotics.jpl.nasa.gov/who-we-are/people/deegan_atha/]
+  * _Supervisor_: [Deegan Atha](https://www-robotics.jpl.nasa.gov/who-we-are/people/deegan_atha/)
+</br>
+</br>
 
 * Robotics Intern 🗓️ February - June 2022 📍**University of Edinburgh, [SLMC Group](https://web.inf.ed.ac.uk/slmc)**
-  * _Project_: Integration of a mobile humanoid robot called [EVA](https://youtu.be/nMkcBbofDY0)
+  * _Project_: Integration of a mobile humanoid robot called EVA ([video](https://youtu.be/nMkcBbofDY0))
   * _Supervisor_: [Dr. Vladimir Ivan](https://vladimirivan.wordpress.com/), [Prof. Sethu Vijayajumar](https://homepages.inf.ed.ac.uk/svijayak/)
+</br>
+</br>
 
-* Astrophysics Summer Intern 🗓️ June 2020 - October 2021 📍**Max Planck Institute for Astronomy, University of Cambridge**
-  * 3 month internship awarded by MPIA, then continued project with supervisor as he took up a position in Cambridge 
+* Astrophysics Summer Intern 🗓️ June 2020 - October 2021 📍**Max Planck Institute for Astronomy***
+  * *Internship awarded by MPIA, and continued as supervisor moved to **University of Cambridge** 
   * Project: The formation of wide exoKuiper belts from migrating dust traps ([paper](https://arxiv.org/pdf/2110.04007.pdf))
   * Supervisor: [Dr. Sebastian Marino](https://sebamarino.github.io/)
+</br>
+</br>
 
 * Firmware Engineering Summer Intern 🗓️ December 2020 - February 2021 📍 **Cochlear**
+</br>
+</br>
 
 * Summer Research Scholar 🗓️ December 2019 - February 2020 📍 **Australian National University**
   * Project: Multi-band Type Ia supernova light curve fitting
   * Supervisor: [Dr. Brad Tucker](https://www.mso.anu.edu.au/~brad/)
-  
+</br>
+</br>
+
 * Space Engineering Intern 🗓️ August - November 2019 📍 **Saber Astronautics**
   * Project: Satellite orbit determination
   * Supervisor: Andreas Antoniades
+</br>
+</br>
 
 * Student Researcher 🗓️ August 2017 - November 2018 📍 **University of Sydney**
   * As part of Talented Students Program, I undertook 3 semester-long research projects
     * Design and Testing of a Plasma Wave Receiver, supervised by Prof. Iver Cairns (marked 94/100)
     * Young, Strange, and Faraway Radio Galaxies, supervised by Prof. Elaine Sadler (marked 90/100)
     * Hunting for Dark Matter, supervised by Dr. Nicholas Scott (unmarked)
+</br>
+</br>
 
 Awards ⭐
 ======
@@ -56,6 +72,8 @@ Awards ⭐
 * Invitation to Talented Student Program (2017)
 * Invitation to Special Studies Physics (2017)
 * High School Proxime, ATAR: 99.6 (top 0.6% of NSW) (2016)
+</br>
+</br>
 
 Skills 👩‍💻
 ======
@@ -63,13 +81,17 @@ Skills 👩‍💻
 * Software tools/development: Linux, Git, PyTorch, Slurm, VSCode 
 * Robot stuff: ROS, URDF, Gazebo, PyBullet, RViz
 * Soft skills: problem-solving, creativity, leadership, interpersonal abilites, self-directed, communication
+</br>
+</br>
 
 Publications 📜
 ======
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
+</br>
+</br>
+
 Leadership 🚀
 ======
 * Engagement Assistant, Engineers Australia
@@ -80,11 +102,15 @@ Leadership 🚀
 * 1st and 2nd Year Representative, Sydney University Rocketry Team
 * Vice Captain, High School Justice & Democracy Club
 * School Captain, Primary School
+</br>
+</br>
 
 Volunteering ✋
 ======
 * [The Pyjama Foundation](https://thepyjamafoundation.com/about-us/)
 * [Best Buddies Edinburgh](https://www.bestbuddies.org/scotland/)
+</br>
+</br>
 
 Talks 🗣️
 ======
