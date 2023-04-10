@@ -19,19 +19,19 @@ Work experience 🏛️
 * Robotics Research Engineer 🗓️ March 2023 - present 📍 **DLR (German Aerospace Center)**
   * _Project_: Perception and grasping for the assistive EDAN robot
   * _Supervisor_: Jörn Vogel, [Dr. Freek Stulp](http://www.freekstulp.net/)
-&nbsp;
+
 &nbsp;
 
 * Visiting Student Researcher 🗓️ July - December 2022 📍 **NASA Jet Propulsion Laboratory**
   * _Project_: Semantic perception for RACER Challenge
   * _Supervisor_: [Deegan Atha](https://www-robotics.jpl.nasa.gov/who-we-are/people/deegan_atha/)
-&nbsp;
+
 &nbsp;
 
 * Robotics Intern 🗓️ February - June 2022 📍**University of Edinburgh, [SLMC Group](https://web.inf.ed.ac.uk/slmc)**
   * _Project_: Integration of a mobile humanoid robot called EVA ([video](https://youtu.be/nMkcBbofDY0))
   * _Supervisor_: [Dr. Vladimir Ivan](https://vladimirivan.wordpress.com/), [Prof. Sethu Vijayajumar](https://homepages.inf.ed.ac.uk/svijayak/)
-&nbsp;
+
 &nbsp;
 
 * Astrophysics Summer Intern 🗓️ June 2020 - October 2021 📍**Max Planck Institute for Astronomy***
@@ -39,23 +39,23 @@ Work experience 🏛️
   * Project: The formation of wide exoKuiper belts from migrating dust traps ([paper](https://arxiv.org/pdf/2110.04007.pdf))
   * Supervisor: [Dr. Sebastian Marino](https://sebamarino.github.io/)
 
-
+&nbsp;
 
 * Firmware Engineering Summer Intern 🗓️ December 2020 - February 2021 📍 **Cochlear**
 
-
+&nbsp;
 
 * Summer Research Scholar 🗓️ December 2019 - February 2020 📍 **Australian National University**
   * Project: Multi-band Type Ia supernova light curve fitting
   * Supervisor: [Dr. Brad Tucker](https://www.mso.anu.edu.au/~brad/)
 
-
+&nbsp;
 
 * Space Engineering Intern 🗓️ August - November 2019 📍 **Saber Astronautics**
   * Project: Satellite orbit determination
   * Supervisor: Andreas Antoniades
 
-
+&nbsp;
 
 * Student Researcher 🗓️ August 2017 - November 2018 📍 **University of Sydney**
   * As part of Talented Students Program, I undertook 3 semester-long research projects
@@ -63,7 +63,6 @@ Work experience 🏛️
     * Young, Strange, and Faraway Radio Galaxies, supervised by Prof. Elaine Sadler (marked 90/100)
     * Hunting for Dark Matter, supervised by Dr. Nicholas Scott (unmarked)
 
-&nbsp;
 &nbsp;
 
 Awards ⭐
@@ -74,7 +73,7 @@ Awards ⭐
 * Invitation to Special Studies Physics (2017)
 * High School Proxime, ATAR: 99.6 (top 0.6% of NSW) (2016)
 
-
+&nbsp;
 
 Skills 👩‍💻
 ======
@@ -83,7 +82,7 @@ Skills 👩‍💻
 * Robot stuff: ROS, URDF, Gazebo, PyBullet, RViz
 * Soft skills: problem-solving, creativity, leadership, interpersonal abilites, self-directed, communication
 
-
+&nbsp;
 
 Publications 📜
 ======
@@ -91,7 +90,7 @@ Publications 📜
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
 
-
+&nbsp;
 
 Leadership 🚀
 ======
@@ -104,14 +103,14 @@ Leadership 🚀
 * Vice Captain, High School Justice & Democracy Club
 * School Captain, Primary School
 
-
+&nbsp;
 
 Volunteering ✋
 ======
 * [The Pyjama Foundation](https://thepyjamafoundation.com/about-us/)
 * [Best Buddies Edinburgh](https://www.bestbuddies.org/scotland/)
 
-
+&nbsp;
 
 Talks 🗣️
 ======
