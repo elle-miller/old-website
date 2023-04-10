@@ -1,8 +1,11 @@
 # main links links
 main:
 
-  - title: "Projects"
-    url: /projects/
+  # - title: "Projects"
+  #   url: /projects/
+
+  - title: "CV"
+    url: /cv/
 
   - title: "Publications"
     url: /publications/
@@ -13,8 +16,7 @@ main:
   - title: "Media"
     url: /media/    
     
-  - title: "CV"
-    url: /cv/
+
 
   # - title: "Blog Posts"
   #   url: /year-archive/
