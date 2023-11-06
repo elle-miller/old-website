@@ -81,9 +81,9 @@ analytics:
 # Site Author
 author:
   name             : "Elle Miller"
-  avatar           : "sweden.png"
-  bio              : "Robotics Research Engineer"
-  location         : "DLR, Germany"
+  avatar           : "nasa.jpeg"
+  bio              : "Robotics & AI PhD student"
+  location         : "Edinburgh, UK"
   employer         : #  "DLR"
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?hl=en&user=wJn4Og0AAAAJ"
