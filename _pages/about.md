@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD student in the [Statistical Learning and Motor Control Group](https://web.inf.ed.ac.uk/slmc) and the [Autonomous Agents Research Group](https://agents.inf.ed.ac.uk/) investigating reinforcement learning for physical human-robot interaction, funded by the EPSRC Centre for Doctoral Training in [Robotics and Autonomous Systems](https://www.edinburgh-robotics.org/). 
+I am a PhD student in the [Statistical Learning and Motor Control Group](https://web.inf.ed.ac.uk/slmc) and the [Autonomous Agents Research Group](https://agents.inf.ed.ac.uk/) investigating multi-modal reinforcement learning for contact-rich manipulation and physical human-robot interaction, funded by the EPSRC Centre for Doctoral Training in [Robotics and Autonomous Systems](https://www.edinburgh-robotics.org/). 
 
 Previously I was a Research Engineer at **DLR's Institute for Mechatronics and Robotics**, working on an inspiring assistive robotics system called [EDAN](https://www.dlr.de/rm/en/desktopdefault.aspx/tabid-11670) and before that, I was a Visiting Student Researcher at **NASA's Jet Propulsion Laboratory** working on robotic autonomy for the DARPA RACER Challenge. Along the way I also helped create a mobile humanoid robot called [EVA](https://youtu.be/nMkcBbofDY0). 
 
